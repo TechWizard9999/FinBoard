@@ -2,7 +2,7 @@
 
 A powerful, customizable finance dashboard built with Next.js that allows users to build their own real-time finance monitoring dashboard by connecting to various financial APIs and displaying real-time data through customizable widgets.
 
-![FinBoard Dashboard](https://via.placeholder.com/800x400?text=FinBoard+Dashboard)
+![FinBoard Dashboard Deployed](https://fin-board-mu.vercel.app/)
 
 ## 🚀 Features
 
@@ -46,8 +46,8 @@ A powerful, customizable finance dashboard built with Next.js that allows users 
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd projext1
+git clone https://github.com/TechWizard9999/FinBoard.git
+cd FinBoard
 ```
 
 2. Install dependencies:
