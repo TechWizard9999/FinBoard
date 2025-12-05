@@ -2,7 +2,8 @@
 
 A powerful, customizable finance dashboard built with Next.js that allows users to build their own real-time finance monitoring dashboard by connecting to various financial APIs and displaying real-time data through customizable widgets.
 
-![FinBoard Dashboard Deployed](https://fin-board-mu.vercel.app/)
+<img width="1440" height="793" alt="image" src="https://github.com/user-attachments/assets/e76d04a0-dfbe-47f4-87ab-c4efda3715a2" />
+
 
 ## 🚀 Features
 
